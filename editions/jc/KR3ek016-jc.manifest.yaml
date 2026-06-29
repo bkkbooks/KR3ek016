@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR3ek016/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek016/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科方外奇方
+  identifiers:
+    krp: KR3ek016
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek016.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek016_000-jc.yaml, hash: 'sha256:4642ea269fe5240f29363c1dc6026286b5971d3b49a443f74f5795feed51c830'}
+  - {seq: 1, filename: KR3ek016_001-jc.yaml, hash: 'sha256:1154799348c63bce88cb0ba979d17fd9c965bc959d15640e0269bd71005b93a3'}
+  - {seq: 2, filename: KR3ek016_002-jc.yaml, hash: 'sha256:21c69d90db74d194f0c80295ff3d6cec5f90b046abe14392d5c1b24c3dbe34ff'}
+  - {seq: 3, filename: KR3ek016_003-jc.yaml, hash: 'sha256:c49ca97c9ac51d603a4edef652f4ffd2a923fac1b94adab696c284eb01b06e7e'}
+  - {seq: 4, filename: KR3ek016_004-jc.yaml, hash: 'sha256:523962c98d5bb0ba43da3fde723388b03400c3d049e910b1bb8a6fc4970dd3ad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek016_000-jc.markers.yaml, hash: 'sha256:267426a03741cd0fc39a64fa37d24bdb3f56833d9ca3e23303142d24dc4e1805'}
+  - {seq: 1, role: markers, filename: assets/KR3ek016_001-jc.markers.yaml, hash: 'sha256:e57c026020ad0bece567080bec36d98fde260a79a000a175a9ebdc65ea4df53f'}
+  - {seq: 2, role: markers, filename: assets/KR3ek016_002-jc.markers.yaml, hash: 'sha256:db1bb9874c0bc3f2b0122311ac5a5a2065effc4fcd4fd422d450ce10bdcfc944'}
+  - {seq: 3, role: markers, filename: assets/KR3ek016_003-jc.markers.yaml, hash: 'sha256:2e15d79007cb7d178967ef3f084449c0104ce269aac7daad4ec0c76ac36910d4'}
+  - {seq: 4, role: markers, filename: assets/KR3ek016_004-jc.markers.yaml, hash: 'sha256:4b4b6fb553e2bdcccf9add97ddd80cd3716918444be6c53a4c69fdd72fa6de94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek016_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 488
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek016_jc_000-d3.h1s1
+    span:
+    - front
+    - 488
+    - 1262
+  label: 重刻序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7076
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 3172
+  label: 升降部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d3
+    span:
+    - body
+    - 3172
+    - 5106
+  label: 圍藥部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d4
+    span:
+    - body
+    - 5106
+    - 6814
+  label: 內消部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d5
+    span:
+    - body
+    - 6814
+    - 7076
+  label: 內護部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8797
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 837
+  label: 化毒部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d3
+    span:
+    - body
+    - 837
+    - 1164
+  label: 點頭部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d4
+    span:
+    - body
+    - 1164
+    - 1688
+  label: 拔毒部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d5
+    span:
+    - body
+    - 1688
+    - 1874
+  label: 去腐部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d6
+    span:
+    - body
+    - 1874
+    - 2092
+  label: 止痛部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d7
+    span:
+    - body
+    - 2092
+    - 3495
+  label: 生肌收口部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d8
+    span:
+    - body
+    - 3495
+    - 4933
+  label: 去管部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d9
+    span:
+    - body
+    - 4933
+    - 8797
+  label: 膏藥部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5136
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 934
+  label: 疔瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d3
+    span:
+    - body
+    - 934
+    - 2326
+  label: 喉症部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d4
+    span:
+    - body
+    - 2326
+    - 5136
+  label: 諸瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 7865
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 1477
+  label: 臁瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d3
+    span:
+    - body
+    - 1477
+    - 2129
+  label: 癬瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d4
+    span:
+    - body
+    - 2129
+    - 3393
+  label: 痔瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d5
+    span:
+    - body
+    - 3393
+    - 4423
+  label: 口牙部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d6
+    span:
+    - body
+    - 4423
+    - 4853
+  label: 鼻耳部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d7
+    span:
+    - body
+    - 4853
+    - 5033
+  label: 腳部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d8
+    span:
+    - body
+    - 5033
+    - 7865
+  label: 補遺
+  type: section
+  level: 2
+hash: sha256:17b23fe0cfd3f27fc5ac0ef5b1814302c045dc04ae2a13184d656f8678d2298c

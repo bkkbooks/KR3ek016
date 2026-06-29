@@ -1,0 +1,315 @@
+canonical_identifier: bkk:krp/KR3ek016/v1
+canonical_location: https://kanripo.org/bkk/KR3ek016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 外科方外奇方
+  identifiers:
+    krp: KR3ek016
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek016.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek016_000.yaml, hash: 'sha256:4bd2a937d726152ab459458f0303eecbf8356155c9debe1d82561571b5a12e6d'}
+  - {seq: 1, filename: KR3ek016_001.yaml, hash: 'sha256:92483a0dd5e0433fef54de53ca22a1c3bbd86c5225f6337fca735d92a27aa5e1'}
+  - {seq: 2, filename: KR3ek016_002.yaml, hash: 'sha256:a00dea2bfd7d69f52557bea8501d7d743f99d1f8be7219b7af6f376a26a582fb'}
+  - {seq: 3, filename: KR3ek016_003.yaml, hash: 'sha256:127c3dfa4fd1e0060be3d65448b2d07884eb8f309943613ddbfcc4d8b77a3a0c'}
+  - {seq: 4, filename: KR3ek016_004.yaml, hash: 'sha256:0143c2248689091e9fc2c72686a3d81673d7015a76f5a8449c7d1485f7c703ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek016_000.markers.yaml, hash: 'sha256:aa0aea0c43f01af77a195d5f34f225ea58895e304fc318611ff4637259bd7978'}
+  - {seq: 1, role: markers, filename: assets/KR3ek016_001.markers.yaml, hash: 'sha256:4a7cf780be65fd2abf0faafe33e33ec40e9a47e452dc6c4254cd83aad00a173d'}
+  - {seq: 2, role: markers, filename: assets/KR3ek016_002.markers.yaml, hash: 'sha256:c34166c86f6419773864ebc607545692da79ececaaba91d39c9fd7d3b3985647'}
+  - {seq: 3, role: markers, filename: assets/KR3ek016_003.markers.yaml, hash: 'sha256:a79fd5f8d17cb8f9e24b20aa8988e284e7dff3ed2f1e1bf73b1fc734602a4189'}
+  - {seq: 4, role: markers, filename: assets/KR3ek016_004.markers.yaml, hash: 'sha256:d598e35ac6755d981b832a9937d6253395118edb9b9be1b96b2326ca42642035'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek016_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 488
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek016_jc_000-d3.h1s1
+    span:
+    - front
+    - 488
+    - 1262
+  label: 重刻序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7076
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 3172
+  label: 升降部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d3
+    span:
+    - body
+    - 3172
+    - 5106
+  label: 圍藥部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d4
+    span:
+    - body
+    - 5106
+    - 6814
+  label: 內消部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek016_jc_001-d4d5
+    span:
+    - body
+    - 6814
+    - 7076
+  label: 內護部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8797
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 837
+  label: 化毒部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d3
+    span:
+    - body
+    - 837
+    - 1164
+  label: 點頭部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d4
+    span:
+    - body
+    - 1164
+    - 1688
+  label: 拔毒部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d5
+    span:
+    - body
+    - 1688
+    - 1874
+  label: 去腐部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d6
+    span:
+    - body
+    - 1874
+    - 2092
+  label: 止痛部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d7
+    span:
+    - body
+    - 2092
+    - 3495
+  label: 生肌收口部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d8
+    span:
+    - body
+    - 3495
+    - 4933
+  label: 去管部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek016_jc_002-d5d9
+    span:
+    - body
+    - 4933
+    - 8797
+  label: 膏藥部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5136
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 934
+  label: 疔瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d3
+    span:
+    - body
+    - 934
+    - 2326
+  label: 喉症部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek016_jc_003-d6d4
+    span:
+    - body
+    - 2326
+    - 5136
+  label: 諸瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 7865
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 1477
+  label: 臁瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d3
+    span:
+    - body
+    - 1477
+    - 2129
+  label: 癬瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d4
+    span:
+    - body
+    - 2129
+    - 3393
+  label: 痔瘡部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d5
+    span:
+    - body
+    - 3393
+    - 4423
+  label: 口牙部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d6
+    span:
+    - body
+    - 4423
+    - 4853
+  label: 鼻耳部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d7
+    span:
+    - body
+    - 4853
+    - 5033
+  label: 腳部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek016_jc_004-d7d8
+    span:
+    - body
+    - 5033
+    - 7865
+  label: 補遺
+  type: section
+  level: 2
+hash: sha256:fef2d1e6b0c070cb5b29f7a8176618ab7113cb007f14983e12101f7854f6eb87
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
